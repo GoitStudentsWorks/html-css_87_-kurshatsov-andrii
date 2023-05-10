@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/leader-code-team-the-watch-spot/",
+    "build": "vite build --base=/html-css_87_-kurshatsov-andrii/",
     "preview": "vite preview"
   },
   "devDependencies": {
